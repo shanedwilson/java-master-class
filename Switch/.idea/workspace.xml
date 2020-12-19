@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="302bf313-5204-443d-9570-0c5252d265e6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/Switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ForStatement/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ForStatement/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +52,7 @@
       <workItem from="1607351979940" duration="1955000" />
       <workItem from="1607443844467" duration="82000" />
       <workItem from="1607609450734" duration="17000" />
+      <workItem from="1607614826808" duration="132000" />
     </task>
     <servers />
   </component>
