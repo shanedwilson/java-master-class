@@ -2,12 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f2835b71-148e-4167-851d-bb1d5679d3f2" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/DayOfTheWeek.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/NumberOfDaysInMonth.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/PrimeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../SampleCodingExercises/src/Sum3And5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Switch/.idea/Switch.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Switch/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,21 +67,21 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1607611477932">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom" timestamp="1607614963699">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607611477932" />
-    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1607611477931">
+    <state width="1878" height="290" key="GridCell.Tab.0.bottom/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607614963699" />
+    <state width="1878" height="290" key="GridCell.Tab.0.center" timestamp="1607614963698">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607611477931" />
-    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1607611477930">
+    <state width="1878" height="290" key="GridCell.Tab.0.center/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607614963698" />
+    <state width="1878" height="290" key="GridCell.Tab.0.left" timestamp="1607614963697">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607611477930" />
-    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1607611477932">
+    <state width="1878" height="290" key="GridCell.Tab.0.left/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607614963697" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right" timestamp="1607614963698">
       <screen x="0" y="23" width="1920" height="1057" />
     </state>
-    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607611477932" />
+    <state width="1878" height="290" key="GridCell.Tab.0.right/0.23.1920.1057/-1280.87.1280.777@0.23.1920.1057" timestamp="1607614963698" />
   </component>
 </project>
